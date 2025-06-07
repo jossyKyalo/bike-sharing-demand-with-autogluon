@@ -31,12 +31,12 @@ Given more time, I would focus on advanced feature engineering, such as incorpor
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 In summary, this project demonstrated how AutoGluon can effectively automate the machine learning pipeline for regression tasks like bike sharing demand prediction. Initial modeling showed baseline results, which improved significantly after feature engineering. Hyperparameter tuning further refined model performance. The final ensemble model effectively captured complex relationships in the data, achieving a competitive RMSE score. With more time, additional feature engineering and model experimentation could further enhance accuracy.
